@@ -1,0 +1,37 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color:rgb(243, 238, 156) ;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(243, 137, 50);
+}
+
+h2{
+        color:rgb(62, 63, 64);           
+}
+
+h3{
+    color: rgb(91, 92, 93);
+}
+    table{
+
+    width:500px;
+    }
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+        border-style: dotted;
+        border-dashed : 10px;
+    
+         color:black;
+    background-color:rgb(242, 231, 168) ;
+      }
+
+a:link{
+    color: rgba(255, 64, 0, 0.901);
+}
+        div{
+            width:1200px;
+        }
